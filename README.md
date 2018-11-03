@@ -1,4 +1,4 @@
-### Password-Locker Application
+# Password-Locker Application
 
 ## Built by Amira Mugure Tiffany
 
